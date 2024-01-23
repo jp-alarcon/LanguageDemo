@@ -1,0 +1,24 @@
+
+/* Class = "UINavigationItem"; title = "Third"; ObjectID = "5Nd-Vu-7s7"; */
+"5Nd-Vu-7s7.title" = "Third";
+
+/* Class = "UINavigationItem"; title = "Second"; ObjectID = "5zt-2j-IKv"; */
+"5zt-2j-IKv.title" = "Second";
+
+/* Class = "UILabel"; text = "Hello World"; ObjectID = "LaH-52-OmH"; */
+"LaH-52-OmH.text" = "Hello World";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "OEC-O5-wCp"; */
+"OEC-O5-wCp.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OEC-O5-wCp"; */
+"OEC-O5-wCp.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "odk-Ag-lpB"; */
+"odk-Ag-lpB.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "odk-Ag-lpB"; */
+"odk-Ag-lpB.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "First"; ObjectID = "yhe-aU-HT5"; */
+"yhe-aU-HT5.title" = "First";

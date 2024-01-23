@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Language
+
+  Created by Pablo Alarcon on 1/22/24.
+  
+*/
+
+"hello_world" = "Hello World";
+"en" = "English";
+"es-419" = "Spanish";
+
+
